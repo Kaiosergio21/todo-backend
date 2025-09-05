@@ -1,14 +1,9 @@
 # Todo Backend
 
-Backend do app de To-Do, construído em **Node.js** com **Express**.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
-O backend fornece uma API REST para criar, ler, atualizar e deletar tarefas.
-
-## 📦 Tecnologias
-
-- Node.js
-- Express
-- CORS
+Backend do app de To-Do, construído em Node.js com Express. Fornece uma **API REST** para criar, listar, editar e deletar tarefas.
 
 ## 🚀 Funcionalidades
 
@@ -16,3 +11,12 @@ O backend fornece uma API REST para criar, ler, atualizar e deletar tarefas.
 - Criar tarefa (POST `/tasks`)
 - Editar tarefa (PUT `/tasks/:id`)
 - Deletar tarefa (DELETE `/tasks/:id`)
+
+## 💻 Rodando localmente
+
+```bash
+git clone https://github.com/SEU-USUARIO/todo-backend.git
+cd todo-backend
+npm install
+npm start
+
