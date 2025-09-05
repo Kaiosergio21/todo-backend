@@ -20,3 +20,7 @@ cd todo-backend
 npm install
 npm start
 
+## Repositório do frontend
+
+https://github.com/Kaiosergio21/todo-frontend
+
